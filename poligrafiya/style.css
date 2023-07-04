@@ -453,6 +453,12 @@ body {
   .cooperation-side {
     margin: 20px auto;
   }
+  .phone {
+    display: none;
+  }
+  .etapu-rabotu {
+    padding-left: 0;
+  }
 }
 @media (max-width: 1050px) {
   .products-content {
@@ -464,5 +470,24 @@ body {
   .products-item p {
     padding-top: 0;
     font-size: 15px;
+  }
+  .advantages-content {
+    display: block;
+  }
+  .advantages-block {
+    width: auto;
+  }
+  .advantages-item {
+    width: auto;
+  }
+  .question-image {
+    display: none;
+  }
+  .question h2 {
+    padding-left: 0;
+    text-align: center;
+  }
+  .question-content {
+    padding-left: 0;
   }
 }
