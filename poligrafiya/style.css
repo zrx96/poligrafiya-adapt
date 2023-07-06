@@ -502,6 +502,11 @@ body {
     width: auto;
   }
 } */
+@media (max-width: 800px) {
+  .wait-text {
+    margin-left: 10px;
+  }
+}
 @media (max-width: 600px) {
   .grow-item {
     width: auto;
